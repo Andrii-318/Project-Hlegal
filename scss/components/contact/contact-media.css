@@ -1,0 +1,6 @@
+@media (max-width: 1024px) {
+  .contact__wrapper {
+    flex-direction: column;
+    gap: 30px;
+  }
+}/*# sourceMappingURL=contact-media.css.map */

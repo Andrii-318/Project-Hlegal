@@ -1,0 +1,15 @@
+@media (max-width: 1024px) {
+  .bg-picture-title {
+    font-size: 86px;
+  }
+}
+@media (max-width: 768px) {
+  .bg-picture-title {
+    font-size: 46px;
+  }
+}
+@media (max-width: 567px) {
+  .bg-picture-title {
+    font-size: 35px;
+  }
+}/*# sourceMappingURL=bg-picture-media.css.map */

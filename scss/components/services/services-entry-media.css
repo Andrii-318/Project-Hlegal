@@ -1,0 +1,13 @@
+@media (max-width: 1024px) and (min-width: 768px) {
+  .service-info {
+    padding-top: 260px;
+  }
+}
+@media (max-width: 576px) {
+  .service-info__second-block-inner {
+    flex-wrap: wrap;
+  }
+  .service-info__second-block ul {
+    width: 100%;
+  }
+}/*# sourceMappingURL=services-entry-media.css.map */

@@ -1,0 +1,16 @@
+@media (max-width: 2800px) and (min-width: 1405px) {
+  .company .container {
+    max-width: 1720px;
+  }
+}
+@media (min-width: 1450px) {
+  .company .row {
+    border-radius: 12px;
+    overflow: hidden;
+  }
+}
+@media (max-width: 1440px) {
+  .company .container {
+    min-width: 100%;
+  }
+}/*# sourceMappingURL=company-media.css.map */
